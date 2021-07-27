@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with reactjs portfolio musicmaster app
 
 This project was bootstrapped with [reactjs-portfolio-musicmaster-app].
 
