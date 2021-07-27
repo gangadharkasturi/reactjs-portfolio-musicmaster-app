@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "history": "^4.10.1",
+    "live-server": "^1.2.1",
+    "parcel-bundler": "^1.12.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "start": "npm run build && live-server dist"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8"
+  }
+}
